@@ -1,0 +1,59 @@
+.body{
+  background-color: #E4DCCF;
+}
+
+.container{
+  text-align: center;
+}
+
+.mn-pg{
+  margin-top: 2rem;
+}
+
+.headings{
+  font-family: 'Fascinate Inline', cursive;
+  font-weight: bold;
+  font-size: 300%;
+  color: #2C3639;
+}
+
+.text{
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.button{
+  margin-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  border-width:1px;
+  width: 130px;
+  height: 40px;
+  color: #2C3639;
+  background: none;
+  border-radius: 4px;
+  transition: 0.2s;
+}
+
+.button:hover{
+  color: white;
+  background-color: #2C3639;
+  transform: scale(1.05);
+}
+
+.textbox{
+  margin-top: 7rem;
+  text-align: center;
+}
+
+.num-box{
+  width: 35px;
+}
+
+.text-area{
+  height: 300px;
+  width: 1000px;
+  font-size: 100%;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
